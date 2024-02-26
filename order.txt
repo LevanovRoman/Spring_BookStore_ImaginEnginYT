@@ -1,0 +1,16 @@
+1 controller.BookController
+
+2 templates.home
+
+3 application.properties
+
+4 entity.Book
+
+5 templates.bookList
+
+6 templates.bookRegister
+
+7 repository.BookRepository
+
+8 service.BookService
+
